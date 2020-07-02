@@ -1,0 +1,67 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+  
+li {
+    float: right;
+}
+  
+li a {
+    display: block;
+    color: dodgerblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+#logo {
+    float: left;
+    font-weight: 700;
+    font-size: 22px;
+    padding-left: 20px;
+}
+
+#nav-bar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#greeting {
+    background-color: khaki;
+}
+
+#greeting h1 {
+    text-align: center;
+    padding-top: 130px;
+    margin: 0;
+    font-size: 70px;
+    font-family: 'Roboto';
+    color: lightslategray;
+}
+
+#greeting p {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: lightslategray;
+    font-family: 'Roboto';
+    font-size: 20px;
+    padding-bottom: 150px;
+}
+
+#pictures {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  
+img {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+  
